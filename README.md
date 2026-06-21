@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Abishek (@Abishek2303)
+# 👋 Hi, I’m Abishek K (@Abishek2303)
 
 ## 👀 Interests
-- Chess ♟️
+- Chess ♟️ 
 - Latest technology trends 💻
 - Automotives 🚗
 - Smart systems design & sustainable mobility ⚡
@@ -11,10 +11,17 @@
 - Exploring **Power Electronics, EV systems, IoT hardware integration**
 
 ## 💼 Experience & Leadership
-- Student Lead, **IEDC GEC Thrissur (2024–25)**
-- Organizer, **Tech Aura 2025** prize-winning projects
-- Event Manager, **GECT Open 2026 Chess Tournament** with 136 participants, in collaboration with Chess.com & CAK
-- Hands-on skills in **hardware prototyping, embedded systems, PCB design, MATLAB/Simulink**
+- **Texas Instruments Internship**  
+  - Hands‑on exposure to **embedded systems, circuit debugging, and prototyping**.  
+  - Worked on practical applications bridging hardware and software integration.  
+- **Student Lead – IEDC, Govt. Polytechnic College Perinthalmanna (2024–25)**  
+  - Organized **HOPE’25 Tech Fest**, a one‑day state‑level event with 13 competitions and nearly 1000 participants.  
+  - Conducted outreach programs to inspire school students toward engineering and innovation.  
+- **Tech Aura 2025, MTI Thrissur**  
+  - Secured **1st prize in Electronics Crossword Quiz** and **2nd prize in Seminar Contest**.  
+- **Event Manager – GECT Open 2026 Chess Tournament**  
+  - Coordinated 136 participants with collaborations from Chess.com, CAK, and Go Chess Academy.  
+- Strong skills in **hardware prototyping, embedded systems, PCB design, MATLAB/Simulink, IoT development**.
 
 ## 💞️ Collaboration
 - Open to skill‑development activities
@@ -30,9 +37,3 @@
 
 ## ⚡ Fun Fact
 - The first computer mouse (1964) was made of **wood** by Douglas Engelbart — and it had just one button!
-
-
-<!---
-Abishek2303/Abishek2303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
