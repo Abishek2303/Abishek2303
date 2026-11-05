@@ -23,7 +23,7 @@
   - Coordinated 136 participants with collaborations from Chess.com, CAK, and Go Chess Academy.  
 - Strong skills in **hardware prototyping, embedded systems, PCB design, MATLAB/Simulink, IoT development**.
 
-## 💞️ Collaboration
+##  Collaboration
 - Open to skill‑development activities
 - Keen on tech events, innovation, and teamwork
 - Passionate about empowering peers and juniors through seminars & project exposure
